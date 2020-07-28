@@ -1,0 +1,264 @@
+{
+    "x_axis_points": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+    ],
+    "x_axis_title": "Year",
+    "title": "Grouped Bar chart (ASEAN population vs year)",
+    "plot_data": [
+        {
+            "name": "Brunei",
+            "data": [
+                [
+                    "population",
+                    394.013
+                ],
+                [
+                    "population",
+                    399.748
+                ],
+                [
+                    "population",
+                    405.716
+                ],
+                [
+                    "population",
+                    411.704
+                ],
+                [
+                    "population",
+                    417.542
+                ]
+            ]
+        },
+        {
+            "name": "Cambodia",
+            "data": [
+                [
+                    "population",
+                    14537.886
+                ],
+                [
+                    "population",
+                    14776.866
+                ],
+                [
+                    "population",
+                    15022.692
+                ],
+                [
+                    "population",
+                    15270.79
+                ],
+                [
+                    "population",
+                    15517.635
+                ]
+            ]
+        },
+        {
+            "name": "Indonesia",
+            "data": [
+                [
+                    "population",
+                    245707.511
+                ],
+                [
+                    "population",
+                    248883.232
+                ],
+                [
+                    "population",
+                    252032.263
+                ],
+                [
+                    "population",
+                    255131.116
+                ],
+                [
+                    "population",
+                    258162.113
+                ]
+            ]
+        },
+        {
+            "name": "Lao PDR",
+            "data": [
+                [
+                    "population",
+                    6333.487
+                ],
+                [
+                    "population",
+                    6415.169
+                ],
+                [
+                    "population",
+                    6494.557
+                ],
+                [
+                    "population",
+                    6576.397
+                ],
+                [
+                    "population",
+                    6663.967
+                ]
+            ]
+        },
+        {
+            "name": "Malaysia",
+            "data": [
+                [
+                    "population",
+                    28635.128
+                ],
+                [
+                    "population",
+                    29170.456
+                ],
+                [
+                    "population",
+                    29706.724
+                ],
+                [
+                    "population",
+                    30228.017
+                ],
+                [
+                    "population",
+                    30723.155
+                ]
+            ]
+        },
+        {
+            "name": "Myanmar",
+            "data": [
+                [
+                    "population",
+                    50553.031
+                ],
+                [
+                    "population",
+                    50986.514
+                ],
+                [
+                    "population",
+                    51448.196
+                ],
+                [
+                    "population",
+                    51924.182
+                ],
+                [
+                    "population",
+                    52403.669
+                ]
+            ]
+        },
+        {
+            "name": "Philippines",
+            "data": [
+                [
+                    "population",
+                    95277.94
+                ],
+                [
+                    "population",
+                    96866.642
+                ],
+                [
+                    "population",
+                    98481.032
+                ],
+                [
+                    "population",
+                    100102.249
+                ],
+                [
+                    "population",
+                    101716.359
+                ]
+            ]
+        },
+        {
+            "name": "Singapore",
+            "data": [
+                [
+                    "population",
+                    5176.017
+                ],
+                [
+                    "population",
+                    5270.958
+                ],
+                [
+                    "population",
+                    5360.837
+                ],
+                [
+                    "population",
+                    5448.342
+                ],
+                [
+                    "population",
+                    5535.262
+                ]
+            ]
+        },
+        {
+            "name": "Thailand",
+            "data": [
+                [
+                    "population",
+                    67530.13
+                ],
+                [
+                    "population",
+                    67843.979
+                ],
+                [
+                    "population",
+                    68143.065
+                ],
+                [
+                    "population",
+                    68416.772
+                ],
+                [
+                    "population",
+                    68657.6
+                ]
+            ]
+        },
+        {
+            "name": "Viet Nam",
+            "data": [
+                [
+                    "population",
+                    89436.644
+                ],
+                [
+                    "population",
+                    90451.881
+                ],
+                [
+                    "population",
+                    91497.725
+                ],
+                [
+                    "population",
+                    92544.915
+                ],
+                [
+                    "population",
+                    93571.567
+                ]
+            ]
+        }
+    ],
+    "y_axis_title": "Population"
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Population of ASEAN countries (2014)",
+    "x_axis_title": "ASEAN countries",
+    "y_axis_title": "Population",
+    "x_axis_points": [
+        "Brunei",
+        "Cambodia",
+        "Indonesia",
+        "Lao PDR",
+        "Malaysia",
+        "Myanmar",
+        "Philippines",
+        "Singapore",
+        "Thailand",
+        "Viet Nam"
+    ],
+    "plot_data": [
+        {
+            "name": "Population",
+            "data": [
+                [
+                    "Brunei Darussalam",
+                    411.704
+                ],
+                [
+                    "Cambodia",
+                    15270.79
+                ],
+                [
+                    "Indonesia",
+                    255131.116
+                ],
+                [
+                    "Lao People's Democratic Republic",
+                    6576.397
+                ],
+                [
+                    "Malaysia",
+                    30228.017
+                ],
+                [
+                    "Myanmar",
+                    51924.182
+                ],
+                [
+                    "Philippines",
+                    100102.249
+                ],
+                [
+                    "Singapore",
+                    5448.342
+                ],
+                [
+                    "Thailand",
+                    68416.772
+                ],
+                [
+                    "Viet Nam",
+                    92544.915
+                ]
+            ]
+        }
+    ]
+}

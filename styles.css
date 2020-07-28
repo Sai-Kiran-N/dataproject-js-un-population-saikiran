@@ -1,0 +1,32 @@
+body
+{
+    margin:0;
+}
+
+nav
+{
+    background-color: hotpink;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+#menu
+{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    color:blue;
+}
+
+.plot
+{
+    margin:10px;
+}
+
+.plot:hover
+{
+    cursor: pointer;
+    text-decoration: overline;
+    color: yellow;
+}
